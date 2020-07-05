@@ -39,3 +39,9 @@
         {background-color:#dbb08db0!important
         }
         .button {background-color: #008CBA;}
+        .tab-content {
+border-left: 1px solid #ddd;
+border-right: 1px solid #ddd;
+border-bottom: 1px solid #ddd;
+padding: 10px ;
+        }
